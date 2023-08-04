@@ -1,14 +1,19 @@
 
+
+
+
+
+
+
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=%20Yukyung%20Kim&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Frontend%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
 
 
 
-
-
 <h3 align="center"> 💻 Tech Stack 💻</h3>
+<br/>
 
-<div align="center">
-  
 ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
